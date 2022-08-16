@@ -14,7 +14,7 @@ Me gusta comer, entrenar, jugar videojuegos y salir con amigos.
 
 #### Receta para ser feliz
 
-- ~~ Estudiar y progresar ~~
+- ~~Estudiar y progresar~~
 - Una hamburguesa con papas todas las semanas :hamburger:.
 
 <!--
